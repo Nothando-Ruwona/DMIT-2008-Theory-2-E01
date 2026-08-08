@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "Nothando Ruwona - Freelance Front-end Developer",
+    "description": "I'm a developer based in Edmonton, passionate about user interface and user experience. I specialize in bridging the gap between function and aesthetic. My primary tools of choice include: HTML, CSS, JavaScript, React, Node.js, Figma, Wordpress and Adobe Creative Apps ",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,40 +11,40 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
+    "personName": "Nothando",
     "jobTitle": "Freelance Frontend Developer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Edmonton",
+    "countryCode": "CA",
+    "nationality": "Zimbabwean",
+    "publisherName": "Nothando",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
+      "https://www.linkedin.com/in/nothando-tapuwanashe-ruwona-82b7b726a",
       "https://github.com/Ladvace"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Nothando Ruwona",
+    "summary": "a web developer with strong focus on user interface and user experience, animations and micro interactions",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/NothyPro"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/nothando-tapuwanashe-ruwona-82b7b726a/"
       },
       {
-        "ariaLabel": "dribble profile",
-        "screenReaderLabel": "Dribble Profile",
-        "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "ariaLabel": "photography profile",
+        "screenReaderLabel": "Photography Profile",
+        "icon": "ri:photography-fill",
+        "url": "https://ruwonant.myportfolio.com/adobe-portfolio-photos"
       }
     ],
     "supportLink": {
@@ -54,42 +54,41 @@
     },
     "image": {
       "src": "/me.webp",
-      "alt": "memoji of gianmarco"
+      "alt": "memoji of nothando"
     }
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm Nothando, a front-end software developer from Edmonton.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
       "React",
-      "Solidjs",
-      "Astro",
-      "Svelte",
-      "Nodejs"
+      "Nextjs",
+      "Nodejs",
+      "Adobe"
     ],
-    "passion": "Beyond coding, I'm passionate about design, illustration, animation and 3D modelling and traveling. An unusual hobby of mine is collecting vintage passports, they're interesting pieces of history to me.",
-    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project."
+    "passion": "Beyond coding, I'm passionate about design, photography and traveling. An unusual hobby of mine is watching Korean and Chinese dramas, it's interesting to see the cinematography and how multi-faceted the dramas are.",
+    "approach": "While I have some preferred tools, I always choose the best one for the job, even if it's not on my usual list. My goal is to find the right solution for each project and client."
   },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": " nruwona1@studentmail.nait.ca",
+    "location": "Edmonton",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/nothando-tapuwanashe-ruwona-82b7b726a/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/NothyPro"
       },
       {
-        "label": "Discord",
-        "url": "https://discordapp.com/users/163300027618295808"
+        "label": "Photography",
+        "url": "https://ruwonant.myportfolio.com/adobe-portfolio-photos"
       }
     ]
   },
