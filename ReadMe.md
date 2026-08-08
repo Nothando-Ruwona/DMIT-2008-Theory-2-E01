@@ -1,6 +1,6 @@
 # Theory 2
 
-> Student Name: **YOUR_NAME**
+> Student Name: Nothando Tapuwanashe Ruwona github:Nothando-Ruwona
 
 ![Website Screenshot](./docs/images/screenshot.png)
 
