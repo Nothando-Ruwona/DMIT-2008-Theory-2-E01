@@ -2,7 +2,7 @@
 
 > Student Name: Nothando Tapuwanashe Ruwona github:Nothando-Ruwona
 
-![Website Screenshot](./docs/images/screenshot.png)
+![Website Screenshot](docs/images/screenshot.png)
 
 In this assignment, you will demonstrate your ability to
 
